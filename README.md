@@ -10,10 +10,12 @@ Installation
 
 Install the module as usual using the composer client with the module name `imi/imi_template_filter` in the backend.
 
-Next Steps
+How to Use
 ----------
 
-Rename templates to be displayed for specific user groups to `mod_mytemplate.Usergroupname.html5`
+Rename templates to be displayed for specific user groups to `mod_mytemplate.Usergroupname.html5`.
+The currently selected template is always displayed.
+Admins see all templates.
 
 About Us
 =================
@@ -34,6 +36,13 @@ Installation
 ------------
 
 Installieren Sie das Modul mit dem Composer client. Der Modulname lautet `imi/imi_template_filter`
+
+Benutzung
+---------
+
+Benenne Templates welche für eine bestimmte Nutzergruppe sichtbar sein sollen in `mod_mytemplate.Gruppenname.html5`.
+Das aktuell gewählte Template wird immer gezeigt.
+Admins sehen alle Templates.
 
 
 Über iMi digital
