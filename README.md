@@ -35,7 +35,7 @@ Filtern der verfügbaren Templates nach Benutzergruppe um die Benutzerfreundlich
 Installation
 ------------
 
-Installieren Sie das Modul mit dem Composer client. Der Modulname lautet `imi/imi_template_filter`
+Installieren Sie das Modul mit dem Composer Client. Der Modulname lautet `imi/imi_template_filter`
 
 Benutzung
 ---------
