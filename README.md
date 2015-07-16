@@ -27,8 +27,8 @@ In need of support or an implementation of a modul in an existing system, [free 
 Of course we provide development of closed-source moduls as well.
 
 
-Contao Modul imi_articledescription
-====================================
+Contao Modul imi_template_filter
+================================
 
 Filtern der verfügbaren Templates nach Benutzergruppe um die Benutzerfreundlichkeit zu verbessern.
 
