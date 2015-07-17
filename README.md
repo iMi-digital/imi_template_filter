@@ -13,7 +13,7 @@ Install the module as usual using the composer client with the module name `imi/
 How to Use
 ----------
 
-Rename templates to be displayed for specific user groups to `mod_mytemplate.Usergroupname.html5`.
+In user group settings you can choose the templates to be displayed in the new section "Template Mounts."
 The currently selected template is always displayed.
 Admins see all templates.
 
@@ -40,7 +40,7 @@ Installieren Sie das Modul mit dem Composer Client. Der Modulname lautet `imi/im
 Benutzung
 ---------
 
-Benenne Templates welche für eine bestimmte Nutzergruppe sichtbar sein sollen in `mod_mytemplate.Gruppenname.html5`.
+Unter Benutzer Gruppen können Sie in der neuen Sektion "Template Mounts" die Templates wählen, welche verfügbar sein sollen.
 Das aktuell gewählte Template wird immer gezeigt.
 Admins sehen alle Templates.
 
